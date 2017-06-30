@@ -5,8 +5,9 @@ section.module:last-child {
   margin-bottom: 0;
 }
 section.module h2 {
+  color: #000000;
   margin-bottom: 40px;
-  font-family: "Roboto Slab", serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 30px;
 }
 section.module p {
@@ -80,10 +81,18 @@ section.module.parallax-3 {
   text-align: left;
   margin-left: 40px;
   color: #000000;
+  font-family: 'Abril Fatface', cursive;
 }
 td{
   padding: 20px;
 }
 .mychangecolor{
-  color: #ff3399 
+  color: #ff3399;
+  font-weight: bold;
+}
+#service_name{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: left;
+  color: black;
+  font-size: 29px;
 }
